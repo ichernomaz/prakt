@@ -12,7 +12,7 @@ int power(int x, int n)
 }
 int main()
 {
-	printf("Привет\n");
+	printf("Привет, как дела?\n");
 	setlocale(LC_ALL, "");
 	unsigned int c, x, max, min, k, mask;
 	mask = 15;
